@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Jingxuan Dong"
-  avatar           : "profile photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "jay.png"
+  bio              : "Democracy Savage"
   location         : "Nanjing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Michael-Key-6"
   uri              :
   bitbucket        :
   codepen          :
