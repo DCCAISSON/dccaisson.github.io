@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-09-16
 venue: 'Frontiers in marine science'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Dong, J., Qiao, D., Yuan, B., & Xu, T. (2022). &quot;Total Factor Productivity of China's marine&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Dong, J., Qiao, D., Yuan, B., & Xu, T. (2022). &quot;Total Factor&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
