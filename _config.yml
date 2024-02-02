@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jingxuan Dong"
   avatar           : "jay.png"
-  bio              : "Democracy Savage"
+  bio              : "One is glad to be of service"
   location         : "Nanjing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Michael-Key-6"
