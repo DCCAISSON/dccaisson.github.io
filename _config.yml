@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingxuan Dong's Homepage"
+title                    : "Jingxuan Dong / Dong's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
